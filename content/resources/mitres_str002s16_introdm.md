@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This file contains resources of Introduction to Research Data Management.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-str-002-data-management-spring-2016/9d8d702e3f5817c83bb0ac3de05556a9_MITRES_STR002S16_IntroDM.pdf
+file: /media/courses/res-str-002-data-management-spring-2016/9d8d702e3f5817c83bb0ac3de05556a9_MITRES_STR002S16_IntroDM.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Workshop Materials
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'MIT Libraries Data Management Workshops: Introduction to Research Data Management'
 uid: 9d8d702e-3f58-17c8-3bb0-ac3de05556a9

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This file contains resources of Resources for Data Sharing and Storage.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-str-002-data-management-spring-2016/4ec8e5ce67928474244a7d407a89eb39_MITRES_STR002S16_DataShrng.pdf
+file: /media/courses/res-str-002-data-management-spring-2016/4ec8e5ce67928474244a7d407a89eb39_MITRES_STR002S16_DataShrng.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Workshop Materials
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'MIT Libraries Data Management Workshops: Resources for Data Sharing and Storage'
 uid: 4ec8e5ce-6792-8474-244a-7d407a89eb39

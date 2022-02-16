@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Workshop Materials
 uid: b416d225-638e-b1d3-31b0-6e68df2d3977
 ---

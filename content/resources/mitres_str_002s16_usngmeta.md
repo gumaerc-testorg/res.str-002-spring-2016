@@ -2,8 +2,12 @@
 content_type: resource
 description: 'This file contains information regarding research data management: using
   metadata to find, interpret & share your data.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-str-002-data-management-spring-2016/27296519251ee00650e2d4ecc54b01d5_MITRES_STR_002S16_usngmeta.pdf
+file: /media/courses/res-str-002-data-management-spring-2016/27296519251ee00650e2d4ecc54b01d5_MITRES_STR_002S16_usngmeta.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Workshop Materials
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'MIT Libraries Data Management Workshops: Research Data Management:  Using
   Metadata to Find, Interpret & Share Your Data'

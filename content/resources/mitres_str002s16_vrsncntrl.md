@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This file contains resources of Version Control.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-str-002-data-management-spring-2016/a1f5b454acb785828e4e7c99f717dc12_MITRES_STR002S16_VrsnCntrl.pdf
+file: /media/courses/res-str-002-data-management-spring-2016/a1f5b454acb785828e4e7c99f717dc12_MITRES_STR002S16_VrsnCntrl.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Workshop Materials
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'MIT Libraries Data Management Workshops: Version Control'
 uid: a1f5b454-acb7-8582-8e4e-7c99f717dc12
