@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Workshop Materials
 parent_type: SupplementalResourceSection
+parent_uid: b416d225-638e-b1d3-31b0-6e68df2d3977
 resourcetype: Document
 title: 'MIT Libraries Data Management Workshops: Research Data Management: Sharing
   and Storage'

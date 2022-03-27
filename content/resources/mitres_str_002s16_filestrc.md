@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Workshop Materials
 parent_type: SupplementalResourceSection
+parent_uid: b416d225-638e-b1d3-31b0-6e68df2d3977
 resourcetype: Document
 title: 'MIT Libraries Data Management Workshops: File Structure and Naming'
 uid: 713d2cb3-2819-f2b1-95e6-3063f87d5b56
