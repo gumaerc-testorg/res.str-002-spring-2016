@@ -4,6 +4,7 @@ description: This file contains resources of Resources for Data Sharing and Stor
 file: /courses/res-str-002-data-management-spring-2016/4ec8e5ce67928474244a7d407a89eb39_MITRES_STR002S16_DataShrng.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Workshop Materials
 parent_type: SupplementalResourceSection
@@ -13,4 +14,3 @@ title: 'MIT Libraries Data Management Workshops: Resources for Data Sharing and 
 uid: 4ec8e5ce-6792-8474-244a-7d407a89eb39
 ---
 This file contains resources of Resources for Data Sharing and Storage.
-
