@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: A collection of presentations and handouts from various data management
+  workshops.
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Workshop Materials
 uid: b416d225-638e-b1d3-31b0-6e68df2d3977
 ---
@@ -9,7 +13,7 @@ The following materials are drawn from workshops given by the [MIT Data Manageme
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction to Research Data Management (PDF)]({{< baseurl >}}/resources/mitres_str002s16_introdm)
+{{% resource_link 9d8d702e-3f58-17c8-3bb0-ac3de05556a9 "Introduction to Research Data Management (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -17,9 +21,9 @@ The following materials are drawn from workshops given by the [MIT Data Manageme
 {{< tdopen >}}
 
 
-[Research Data Management: Sharing and Storage (PDF)]({{< baseurl >}}/resources/mitres_str002s16_dsstorage)
+{{% resource_link 8ed5a644-649c-12e2-e05b-403bba26d9a1 "Research Data Management: Sharing and Storage (PDF)" %}}
 
-*   [Resources for Data Sharing and Storage (PDF)]({{< baseurl >}}/resources/mitres_str002s16_datashrng)
+*   {{% resource_link 4ec8e5ce-6792-8474-244a-7d407a89eb39 "Resources for Data Sharing and Storage (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -29,7 +33,7 @@ The following materials are drawn from workshops given by the [MIT Data Manageme
 {{< tdopen >}}
 
 
-[Data Management Plans and the DMPTool (PDF)]({{< baseurl >}}/resources/mitres_str002s16_dmp)
+{{% resource_link dc44ec99-b2b0-c09e-47a2-50af437b7658 "Data Management Plans and the DMPTool (PDF)" %}}
 
 *   [DMPT Quickstart Guide](https://dmptool.org/)
 
@@ -41,9 +45,9 @@ The following materials are drawn from workshops given by the [MIT Data Manageme
 {{< tdopen >}}
 
 
-[File Organization (PDF - 3.1MB)]({{< baseurl >}}/resources/mitres_str_002s16_file)
+{{% resource_link 497580bd-31c0-04cc-758a-2afb0a115aa4 "File Organization (PDF - 3.1MB)" %}}
 
-*   [Research Projects: File Structure and Naming (PDF)]({{< baseurl >}}/resources/mitres_str_002s16_filestrc)
+*   {{% resource_link 713d2cb3-2819-f2b1-95e6-3063f87d5b56 "Research Projects: File Structure and Naming (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -51,13 +55,13 @@ The following materials are drawn from workshops given by the [MIT Data Manageme
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Version Control (PDF)]({{< baseurl >}}/resources/mitres_str002s16_vrsncntrl)
+{{% resource_link a1f5b454-acb7-8582-8e4e-7c99f717dc12 "Version Control (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Using Metadata to Find, Interpret, and Share Data (PDF - 6.3MB)]({{< baseurl >}}/resources/mitres_str_002s16_usngmeta)
+{{% resource_link 27296519-251e-e006-50e2-d4ecc54b01d5 "Using Metadata to Find, Interpret, and Share Data (PDF - 6.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
