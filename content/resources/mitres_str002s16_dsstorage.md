@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains resources of Research Data Management: Sharing and
   Storage.'
 file: /courses/res-str-002-data-management-spring-2016/8ed5a644649c12e2e05b403bba26d9a1_MITRES_STR002S16_DSStorage.pdf
+file_size: 891165
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
