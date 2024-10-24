@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains resources of Resources for Data Sharing and Storage.
-file: /courses/res-str-002-data-management-spring-2016/4ec8e5ce67928474244a7d407a89eb39_MITRES_STR002S16_DataShrng.pdf
+file: /ol-ocw-studio-app/courses/res-str-002-data-management-spring-2016/4ec8e5ce67928474244a7d407a89eb39_MITRES_STR002S16_DataShrng.pdf
 file_size: 140043
 file_type: application/pdf
 learning_resource_types: []

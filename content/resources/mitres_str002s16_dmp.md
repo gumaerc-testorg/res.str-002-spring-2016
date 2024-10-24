@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains resources of Research Data Management: Sharing and
   Storage.'
-file: /courses/res-str-002-data-management-spring-2016/dc44ec99b2b0c09e47a250af437b7658_MITRES_STR002S16_DMP.pdf
+file: /ol-ocw-studio-app/courses/res-str-002-data-management-spring-2016/dc44ec99b2b0c09e47a250af437b7658_MITRES_STR002S16_DMP.pdf
 file_size: 1087696
 file_type: application/pdf
 learning_resource_types: []
