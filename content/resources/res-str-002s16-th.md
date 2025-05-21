@@ -2,7 +2,7 @@
 content_type: resource
 description: An illustration of proper Data Management workflow. Image courtesy MIT
   Libraries Data Management Group.
-file: /ol-ocw-studio-app/courses/res-str-002-data-management-spring-2016/715f9663038cffeea31a7dc58ffbda75_res-str-002s16-th.jpg
+file: /courses/res-str-002-data-management-spring-2016/715f9663038cffeea31a7dc58ffbda75_res-str-002s16-th.jpg
 file_size: 16030
 file_type: image/png
 image_metadata:
