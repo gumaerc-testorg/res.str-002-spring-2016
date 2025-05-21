@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains resources of Introduction to Research Data Management.
-file: /ol-ocw-studio-app/courses/res-str-002-data-management-spring-2016/9d8d702e3f5817c83bb0ac3de05556a9_MITRES_STR002S16_IntroDM.pdf
+file: /courses/res-str-002-data-management-spring-2016/9d8d702e3f5817c83bb0ac3de05556a9_MITRES_STR002S16_IntroDM.pdf
 file_size: 1069548
 file_type: application/pdf
 learning_resource_types: []

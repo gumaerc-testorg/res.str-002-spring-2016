@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding file structure and naming.
-file: /ol-ocw-studio-app/courses/res-str-002-data-management-spring-2016/713d2cb32819f2b195e63063f87d5b56_MITRES_STR_002S16_FileStrc.pdf
+file: /courses/res-str-002-data-management-spring-2016/713d2cb32819f2b195e63063f87d5b56_MITRES_STR_002S16_FileStrc.pdf
 file_size: 573907
 file_type: application/pdf
 learning_resource_types: []

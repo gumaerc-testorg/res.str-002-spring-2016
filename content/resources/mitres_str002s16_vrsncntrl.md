@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains resources of Version Control.
-file: /ol-ocw-studio-app/courses/res-str-002-data-management-spring-2016/a1f5b454acb785828e4e7c99f717dc12_MITRES_STR002S16_VrsnCntrl.pdf
+file: /courses/res-str-002-data-management-spring-2016/a1f5b454acb785828e4e7c99f717dc12_MITRES_STR002S16_VrsnCntrl.pdf
 file_size: 258308
 file_type: application/pdf
 learning_resource_types: []
