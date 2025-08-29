@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding research data management: using
   metadata to find, interpret & share your data.'
-file: /courses/res-str-002-data-management-spring-2016/27296519251ee00650e2d4ecc54b01d5_MITRES_STR_002S16_usngmeta.pdf
+file: /ol-ocw-studio-app/courses/res-str-002-data-management-spring-2016/27296519251ee00650e2d4ecc54b01d5_MITRES_STR_002S16_usngmeta.pdf
 file_size: 6581426
 file_type: application/pdf
 learning_resource_types: []
