@@ -27,7 +27,7 @@
   },
   "course_title": "Data Management",
   "hide_download": false,
-  "course_description": "The MIT Libraries Data Management Group hosts a set of workshops during IAP ![](/images/educator/icon-question-iap.png) and throughout the year to assist MIT faculty and researchers with data set control, maintenance, and sharing. This resource contains a selection of presentations from those workshops. Topics include an introduction to data management, details on data sharing and storage, data management using the [DMPTool](http://blog.dmptool.org/about-the-dmptool/), file organization, version control, and an overview of the open data requirements of various funding sources.\n",
+  "course_description": "The MIT Libraries Data Management Group hosts a set of workshops during IAP ![](/images/educator/icon-question-iap.png) and throughout the year to assist MIT faculty and researchers with data set control, maintenance, and sharing. This resource contains a selection of presentations from those workshops. Topics include an introduction to data management, details on data sharing and storage, data management using the {{% resource_link \"65c85f8c-278a-47db-87a3-5b1dd03a1fb7\" \"DMPTool\" %}}, file organization, version control, and an overview of the open data requirements of various funding sources.\n",
   "department_numbers": [],
   "extra_course_numbers": "",
   "primary_course_number": "RES.STR-002",
