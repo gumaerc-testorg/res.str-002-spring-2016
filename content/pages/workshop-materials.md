@@ -8,7 +8,7 @@ title: Workshop Materials
 uid: b416d225-638e-b1d3-31b0-6e68df2d3977
 ---
 
-The following materials are drawn from workshops given by the [MIT Data Management Group](http://libraries.mit.edu/data-management/) with in MIT Libraries.
+The following materials are drawn from workshops given by the {{% resource_link "b8804e1f-dc32-424f-8524-58df4460af5e" "MIT Data Management Group" %}} with in MIT Libraries.
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -35,7 +35,7 @@ The following materials are drawn from workshops given by the [MIT Data Manageme
 
 {{% resource_link dc44ec99-b2b0-c09e-47a2-50af437b7658 "Data Management Plans and the DMPTool (PDF)" %}}
 
-*   [DMPT Quickstart Guide](https://dmptool.org/)
+*   {{% resource_link "df2d0f3d-d9ee-424c-a151-bd63864b0a17" "DMPT Quickstart Guide" %}}
 
 
 {{< tdclose >}}
